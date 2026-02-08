@@ -31,7 +31,7 @@ This project focuses on **clean object-oriented design**, **scalability**, and *
 
 ```
 
-OnlineFoodOrderingSystem/
+Food Delivery System/
 │
 ├── Main.cpp                    # Application entry point (Happy Flow)
 ├── TomatoApp.h                 # Facade class (System Controller)
