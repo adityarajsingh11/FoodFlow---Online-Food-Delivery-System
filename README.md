@@ -1,8 +1,4 @@
 
-
----
-
-```md
 # 🍽️ FoodFlow – Online Food Delivery System
 
 FoodFlow is a **Low-Level Design (LLD)** based implementation of an **Online Food Delivery System**, inspired by real-world platforms like Zomato and Swiggy.  
@@ -208,9 +204,5 @@ Hides internal complexity and exposes simple APIs.
 
 Give it a ⭐ on GitHub and feel free to fork or improve it!
 
----
-```
-
----
 
 
